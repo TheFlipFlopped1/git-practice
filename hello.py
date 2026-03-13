@@ -1,1 +1,5 @@
 print('hello')
+print('this')
+print('that')
+print('and')
+print('this other thing')
